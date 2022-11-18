@@ -7,9 +7,9 @@ include 'includes/header.php'; // Don't change this.
 <!-- THIS IS THE UNIQUE CONTENT FOR EACH PAGE! -->
 
 <?php include 'includes/class-nav.php'; ?>
-<h1>Classes</h1>
+<h1>Fall 2022 Courses</h1>
 
-<p>Click a Link to view my Classes</p>
+<p>Use the links to view each course</p>
 
 <?php include 'includes/footer.php'; // Don't Change this
 ?>
