@@ -1,13 +1,14 @@
 <?php
-$pageTitle = 'Class 2';
+$pageTitle = 'INLS 201';
 $bkgdImage = 'seaside.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 
 <?php include 'includes/class-nav.php'; ?>
-<h1>Class 2</h1>
+<h1>INLS 201</h1>
 
-<p>This is where your class 2 info goes.</p>
+<a href="https://aeshin.org/teaching/inls-201/2022/fa/schedule/#next">INLS 201</a> 
+<p>This class examines the foundations of information science.</p>
 
 <?php include 'includes/footer.php'; // Don't Change this
 ?>
