@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Interests';
-$bkgdImage = 'feet.jpg';
+$bkgdImage = 'Hiking.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 
