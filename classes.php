@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Classes';
-$bkgdImage = 'running.jpg';
+$bkgdImage = 'chapel-hill.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 
