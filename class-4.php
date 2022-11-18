@@ -1,12 +1,12 @@
 <?php
-$pageTitle = 'Class 4';
+$pageTitle = 'PSYC 250';
 $bkgdImage = 'clouds.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 <?php include 'includes/class-nav.php'; ?>
-<h1>Class 4</h1>
+<h1>PSYCH 250</h1>
 
-<p>This is the data for class 4.</p>
+<p>This class examines the basics of child development.</p>
 
 <?php include 'includes/footer.php'; // Don't Change this
 ?>
