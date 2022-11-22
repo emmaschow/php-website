@@ -7,7 +7,7 @@
 
  <footer class="footer">
   <div class="container">
-   <span>Place footer content here.</span>
+   <span>Emma Chow.</span>
   </div>
    </footer>
 
