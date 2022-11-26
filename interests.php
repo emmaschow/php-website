@@ -24,7 +24,7 @@ include 'includes/header.php'; // Don't change this.
 
        <p>When I am not in the classroom, I have several other hobbies that I enjoy doing. I like to go on hikes and try to do it at least three times a week, but it can be challenging to schedule around my academic responsabilites. Another thing I enjoy doing with my time is spending time with my friends and family. Being around my community allows me to recharge and take a break.</p>
 
-       	     <img class="img-fluid" src="images/border-collie-frisbee.jpg" alt="Border Collie Catching Frisbee">
+       	     <img class="img-fluid" src="images/friends.jpg" alt="Three friends">
 
 
 <?php include 'includes/footer.php'; // Don't Change this
