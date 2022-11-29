@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'PSYC 250';
-$bkgdImage = 'clouds.jpg';
+$bkgdImage = 'child.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 <?php include 'includes/class-nav.php'; ?>
