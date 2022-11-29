@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'INLS 201';
-$bkgdImage = 'seaside.jpg';
+$bkgdImage = 'information.jpg';
 include 'includes/header.php'; // Don't change this.
 ?>
 
